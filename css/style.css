@@ -111,8 +111,12 @@ header .nav-bar{
 
 .nav-bar .logo{
   color: var(--white-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
   font-size: 1.8em;
   font-weight: 600;
+  align-items: center;
   letter-spacing: 2px;
   text-transform: uppercase;
   text-decoration: none;
